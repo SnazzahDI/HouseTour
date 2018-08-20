@@ -1,0 +1,19 @@
+{
+  "name": "housetour",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Snazzah",
+  "description": "Easily change your Hypesquad house without any questions.",
+  "peerDependencies": { "elements": "*" },
+  "css": ["ht.css"],
+  "keywords": ["di-plugin"],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnazzahDI/HouseTour.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SnazzahDI/HouseTour/issues"
+  },
+  "license": "MIT"
+}
